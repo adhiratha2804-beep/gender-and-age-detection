@@ -5,6 +5,8 @@ The system detects human faces from images/video and predicts:
 Gender (Male / Female)
 Age Group (e.g., 0–2, 15–20, 25–32, etc.)
 The project uses CNN-based pre-trained models with OpenCV DNN module for real-time inference.
+
+
 🎯 Project Summary
 Objective: Predict gender and age groups from facial images
 Approach: Face detection + CNN-based classification
